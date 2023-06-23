@@ -1,5 +1,12 @@
 [
     {
+        "time": "06-24 00:10",
+        "serial": 6230623545,
+        "number": 12,
+        "result_value": 0,
+        "result": "Even&12"
+    },
+    {
         "time": "06-24 00:08",
         "serial": 6230623544,
         "number": 12,
