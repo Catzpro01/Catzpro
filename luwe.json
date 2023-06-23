@@ -1,5 +1,61 @@
 [
     {
+        "time": "06-23 19:34",
+        "serial": 6230623407,
+        "number": 55,
+        "result_value": 1,
+        "result": "Odd&55"
+    },
+    {
+        "time": "06-23 19:32",
+        "serial": 6230623406,
+        "number": 34,
+        "result_value": 0,
+        "result": "Even&34"
+    },
+    {
+        "time": "06-23 19:30",
+        "serial": 6230623405,
+        "number": 67,
+        "result_value": 1,
+        "result": "Odd&67"
+    },
+    {
+        "time": "06-23 19:28",
+        "serial": 6230623404,
+        "number": 50,
+        "result_value": 0,
+        "result": "Even&50"
+    },
+    {
+        "time": "06-23 19:26",
+        "serial": 6230623403,
+        "number": 2,
+        "result_value": 0,
+        "result": "Even&2"
+    },
+    {
+        "time": "06-23 19:24",
+        "serial": 6230623402,
+        "number": 2,
+        "result_value": 0,
+        "result": "Even&2"
+    },
+    {
+        "time": "06-23 19:22",
+        "serial": 6230623401,
+        "number": 72,
+        "result_value": 0,
+        "result": "Even&72"
+    },
+    {
+        "time": "06-23 19:20",
+        "serial": 6230623400,
+        "number": 34,
+        "result_value": 0,
+        "result": "Even&34"
+    },
+    {
         "time": "06-23 19:18",
         "serial": 6230623399,
         "number": 51,
