@@ -1,5 +1,33 @@
 [
     {
+        "time": "06-23 20:00",
+        "serial": 6230623420,
+        "number": 43,
+        "result_value": 1,
+        "result": "Odd&43"
+    },
+    {
+        "time": "06-23 19:58",
+        "serial": 6230623419,
+        "number": 30,
+        "result_value": 0,
+        "result": "Even&30"
+    },
+    {
+        "time": "06-23 19:56",
+        "serial": 6230623418,
+        "number": 48,
+        "result_value": 0,
+        "result": "Even&48"
+    },
+    {
+        "time": "06-23 19:54",
+        "serial": 6230623417,
+        "number": 44,
+        "result_value": 0,
+        "result": "Even&44"
+    },
+    {
         "time": "06-23 19:52",
         "serial": 6230623416,
         "number": 20,
