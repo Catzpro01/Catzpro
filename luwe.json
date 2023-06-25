@@ -1,5 +1,33 @@
 [
     {
+        "time": "06-25 10:32",
+        "serial": 6230625136,
+        "number": 6,
+        "result_value": 0,
+        "result": "Even&6"
+    },
+    {
+        "time": "06-25 10:30",
+        "serial": 6230625135,
+        "number": 9,
+        "result_value": 1,
+        "result": "Odd&9"
+    },
+    {
+        "time": "06-25 10:28",
+        "serial": 6230625134,
+        "number": 69,
+        "result_value": 1,
+        "result": "Odd&69"
+    },
+    {
+        "time": "06-25 10:26",
+        "serial": 6230625133,
+        "number": 74,
+        "result_value": 0,
+        "result": "Even&74"
+    },
+    {
         "time": "06-25 10:24",
         "serial": 6230625132,
         "number": 21,
