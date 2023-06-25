@@ -1,5 +1,26 @@
 [
     {
+        "time": "06-26 06:36",
+        "serial": 623062618,
+        "number": 7,
+        "result_value": 1,
+        "result": "Odd&7"
+    },
+    {
+        "time": "06-26 06:34",
+        "serial": 623062617,
+        "number": 20,
+        "result_value": 0,
+        "result": "Even&20"
+    },
+    {
+        "time": "06-26 06:32",
+        "serial": 623062616,
+        "number": 43,
+        "result_value": 1,
+        "result": "Odd&43"
+    },
+    {
         "time": "06-26 06:30",
         "serial": 623062615,
         "number": 65,
