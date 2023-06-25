@@ -1,5 +1,117 @@
 [
     {
+        "time": "06-25 14:34",
+        "serial": 6230625257,
+        "number": 32,
+        "result_value": 0,
+        "result": "Even&32"
+    },
+    {
+        "time": "06-25 14:32",
+        "serial": 6230625256,
+        "number": 67,
+        "result_value": 1,
+        "result": "Odd&67"
+    },
+    {
+        "time": "06-25 14:30",
+        "serial": 6230625255,
+        "number": 72,
+        "result_value": 0,
+        "result": "Even&72"
+    },
+    {
+        "time": "06-25 14:28",
+        "serial": 6230625254,
+        "number": 45,
+        "result_value": 1,
+        "result": "Odd&45"
+    },
+    {
+        "time": "06-25 14:26",
+        "serial": 6230625253,
+        "number": 11,
+        "result_value": 1,
+        "result": "Odd&11"
+    },
+    {
+        "time": "06-25 14:24",
+        "serial": 6230625252,
+        "number": 47,
+        "result_value": 1,
+        "result": "Odd&47"
+    },
+    {
+        "time": "06-25 14:22",
+        "serial": 6230625251,
+        "number": 3,
+        "result_value": 1,
+        "result": "Odd&3"
+    },
+    {
+        "time": "06-25 14:20",
+        "serial": 6230625250,
+        "number": 55,
+        "result_value": 1,
+        "result": "Odd&55"
+    },
+    {
+        "time": "06-25 14:18",
+        "serial": 6230625249,
+        "number": 6,
+        "result_value": 0,
+        "result": "Even&6"
+    },
+    {
+        "time": "06-25 14:16",
+        "serial": 6230625248,
+        "number": 69,
+        "result_value": 1,
+        "result": "Odd&69"
+    },
+    {
+        "time": "06-25 14:14",
+        "serial": 6230625247,
+        "number": 10,
+        "result_value": 0,
+        "result": "Even&10"
+    },
+    {
+        "time": "06-25 14:12",
+        "serial": 6230625246,
+        "number": 24,
+        "result_value": 0,
+        "result": "Even&24"
+    },
+    {
+        "time": "06-25 14:10",
+        "serial": 6230625245,
+        "number": 64,
+        "result_value": 0,
+        "result": "Even&64"
+    },
+    {
+        "time": "06-25 14:08",
+        "serial": 6230625244,
+        "number": 61,
+        "result_value": 1,
+        "result": "Odd&61"
+    },
+    {
+        "time": "06-25 14:06",
+        "serial": 6230625243,
+        "number": 42,
+        "result_value": 0,
+        "result": "Even&42"
+    },
+    {
+        "time": "06-25 14:04",
+        "serial": 6230625242,
+        "number": 42,
+        "result_value": 0,
+        "result": "Even&42"
+    },
+    {
         "time": "06-25 14:02",
         "serial": 6230625241,
         "number": 25,
