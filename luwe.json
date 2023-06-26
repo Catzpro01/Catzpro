@@ -1,5 +1,334 @@
 [
     {
+        "time": "06-26 11:54",
+        "serial": 6230626177,
+        "number": 48,
+        "result_value": 0,
+        "result": "Even&48"
+    },
+    {
+        "time": "06-26 11:52",
+        "serial": 6230626176,
+        "number": 72,
+        "result_value": 0,
+        "result": "Even&72"
+    },
+    {
+        "time": "06-26 11:50",
+        "serial": 6230626175,
+        "number": 68,
+        "result_value": 0,
+        "result": "Even&68"
+    },
+    {
+        "time": "06-26 11:48",
+        "serial": 6230626174,
+        "number": 43,
+        "result_value": 1,
+        "result": "Odd&43"
+    },
+    {
+        "time": "06-26 11:46",
+        "serial": 6230626173,
+        "number": 54,
+        "result_value": 0,
+        "result": "Even&54"
+    },
+    {
+        "time": "06-26 11:44",
+        "serial": 6230626172,
+        "number": 51,
+        "result_value": 1,
+        "result": "Odd&51"
+    },
+    {
+        "time": "06-26 11:42",
+        "serial": 6230626171,
+        "number": 51,
+        "result_value": 1,
+        "result": "Odd&51"
+    },
+    {
+        "time": "06-26 11:40",
+        "serial": 6230626170,
+        "number": 44,
+        "result_value": 0,
+        "result": "Even&44"
+    },
+    {
+        "time": "06-26 11:38",
+        "serial": 6230626169,
+        "number": 72,
+        "result_value": 0,
+        "result": "Even&72"
+    },
+    {
+        "time": "06-26 11:36",
+        "serial": 6230626168,
+        "number": 29,
+        "result_value": 1,
+        "result": "Odd&29"
+    },
+    {
+        "time": "06-26 11:34",
+        "serial": 6230626167,
+        "number": 39,
+        "result_value": 1,
+        "result": "Odd&39"
+    },
+    {
+        "time": "06-26 11:32",
+        "serial": 6230626166,
+        "number": 11,
+        "result_value": 1,
+        "result": "Odd&11"
+    },
+    {
+        "time": "06-26 11:30",
+        "serial": 6230626165,
+        "number": 47,
+        "result_value": 1,
+        "result": "Odd&47"
+    },
+    {
+        "time": "06-26 11:28",
+        "serial": 6230626164,
+        "number": 2,
+        "result_value": 0,
+        "result": "Even&2"
+    },
+    {
+        "time": "06-26 11:26",
+        "serial": 6230626163,
+        "number": 71,
+        "result_value": 1,
+        "result": "Odd&71"
+    },
+    {
+        "time": "06-26 11:24",
+        "serial": 6230626162,
+        "number": 56,
+        "result_value": 0,
+        "result": "Even&56"
+    },
+    {
+        "time": "06-26 11:22",
+        "serial": 6230626161,
+        "number": 2,
+        "result_value": 0,
+        "result": "Even&2"
+    },
+    {
+        "time": "06-26 11:20",
+        "serial": 6230626160,
+        "number": 42,
+        "result_value": 0,
+        "result": "Even&42"
+    },
+    {
+        "time": "06-26 11:18",
+        "serial": 6230626159,
+        "number": 48,
+        "result_value": 0,
+        "result": "Even&48"
+    },
+    {
+        "time": "06-26 11:16",
+        "serial": 6230626158,
+        "number": 8,
+        "result_value": 0,
+        "result": "Even&8"
+    },
+    {
+        "time": "06-26 11:14",
+        "serial": 6230626157,
+        "number": 18,
+        "result_value": 0,
+        "result": "Even&18"
+    },
+    {
+        "time": "06-26 11:12",
+        "serial": 6230626156,
+        "number": 73,
+        "result_value": 1,
+        "result": "Odd&73"
+    },
+    {
+        "time": "06-26 11:10",
+        "serial": 6230626155,
+        "number": 20,
+        "result_value": 0,
+        "result": "Even&20"
+    },
+    {
+        "time": "06-26 11:08",
+        "serial": 6230626154,
+        "number": 27,
+        "result_value": 1,
+        "result": "Odd&27"
+    },
+    {
+        "time": "06-26 11:06",
+        "serial": 6230626153,
+        "number": 41,
+        "result_value": 1,
+        "result": "Odd&41"
+    },
+    {
+        "time": "06-26 11:04",
+        "serial": 6230626152,
+        "number": 6,
+        "result_value": 0,
+        "result": "Even&6"
+    },
+    {
+        "time": "06-26 11:02",
+        "serial": 6230626151,
+        "number": 38,
+        "result_value": 0,
+        "result": "Even&38"
+    },
+    {
+        "time": "06-26 11:00",
+        "serial": 6230626150,
+        "number": 1,
+        "result_value": 1,
+        "result": "Odd&1"
+    },
+    {
+        "time": "06-26 10:58",
+        "serial": 6230626149,
+        "number": 1,
+        "result_value": 1,
+        "result": "Odd&1"
+    },
+    {
+        "time": "06-26 10:56",
+        "serial": 6230626148,
+        "number": 53,
+        "result_value": 1,
+        "result": "Odd&53"
+    },
+    {
+        "time": "06-26 10:54",
+        "serial": 6230626147,
+        "number": 31,
+        "result_value": 1,
+        "result": "Odd&31"
+    },
+    {
+        "time": "06-26 10:52",
+        "serial": 6230626146,
+        "number": 9,
+        "result_value": 1,
+        "result": "Odd&9"
+    },
+    {
+        "time": "06-26 10:50",
+        "serial": 6230626145,
+        "number": 24,
+        "result_value": 0,
+        "result": "Even&24"
+    },
+    {
+        "time": "06-26 10:48",
+        "serial": 6230626144,
+        "number": 69,
+        "result_value": 1,
+        "result": "Odd&69"
+    },
+    {
+        "time": "06-26 10:46",
+        "serial": 6230626143,
+        "number": 12,
+        "result_value": 0,
+        "result": "Even&12"
+    },
+    {
+        "time": "06-26 10:44",
+        "serial": 6230626142,
+        "number": 15,
+        "result_value": 1,
+        "result": "Odd&15"
+    },
+    {
+        "time": "06-26 10:42",
+        "serial": 6230626141,
+        "number": 1,
+        "result_value": 1,
+        "result": "Odd&1"
+    },
+    {
+        "time": "06-26 10:40",
+        "serial": 6230626140,
+        "number": 30,
+        "result_value": 0,
+        "result": "Even&30"
+    },
+    {
+        "time": "06-26 10:38",
+        "serial": 6230626139,
+        "number": 61,
+        "result_value": 1,
+        "result": "Odd&61"
+    },
+    {
+        "time": "06-26 10:36",
+        "serial": 6230626138,
+        "number": 45,
+        "result_value": 1,
+        "result": "Odd&45"
+    },
+    {
+        "time": "06-26 10:34",
+        "serial": 6230626137,
+        "number": 45,
+        "result_value": 1,
+        "result": "Odd&45"
+    },
+    {
+        "time": "06-26 10:32",
+        "serial": 6230626136,
+        "number": 76,
+        "result_value": 0,
+        "result": "Even&76"
+    },
+    {
+        "time": "06-26 10:30",
+        "serial": 6230626135,
+        "number": 11,
+        "result_value": 1,
+        "result": "Odd&11"
+    },
+    {
+        "time": "06-26 10:28",
+        "serial": 6230626134,
+        "number": 8,
+        "result_value": 0,
+        "result": "Even&8"
+    },
+    {
+        "time": "06-26 10:26",
+        "serial": 6230626133,
+        "number": 30,
+        "result_value": 0,
+        "result": "Even&30"
+    },
+    {
+        "time": "06-26 10:24",
+        "serial": 6230626132,
+        "number": 74,
+        "result_value": 0,
+        "result": "Even&74"
+    },
+    {
+        "time": "06-26 10:22",
+        "serial": 6230626131,
+        "number": 17,
+        "result_value": 1,
+        "result": "Odd&17"
+    },
+    {
         "time": "06-26 10:20",
         "serial": 6230626130,
         "number": 74,
@@ -19,139 +348,6 @@
         "number": 5,
         "result_value": 1,
         "result": "Odd&5"
-    },
-    {
-        "time": "06-26 10:14",
-        "serial": 6230626127,
-        "number": 27,
-        "result_value": 1,
-        "result": "Odd&27"
-    },
-    {
-        "time": "06-26 10:12",
-        "serial": 6230626126,
-        "number": 12,
-        "result_value": 0,
-        "result": "Even&12"
-    },
-    {
-        "time": "06-26 10:10",
-        "serial": 6230626125,
-        "number": 15,
-        "result_value": 1,
-        "result": "Odd&15"
-    },
-    {
-        "time": "06-26 10:08",
-        "serial": 6230626124,
-        "number": 58,
-        "result_value": 0,
-        "result": "Even&58"
-    },
-    {
-        "time": "06-26 10:06",
-        "serial": 6230626123,
-        "number": 11,
-        "result_value": 1,
-        "result": "Odd&11"
-    },
-    {
-        "time": "06-26 10:04",
-        "serial": 6230626122,
-        "number": 16,
-        "result_value": 0,
-        "result": "Even&16"
-    },
-    {
-        "time": "06-26 10:02",
-        "serial": 6230626121,
-        "number": 8,
-        "result_value": 0,
-        "result": "Even&8"
-    },
-    {
-        "time": "06-26 10:00",
-        "serial": 6230626120,
-        "number": 35,
-        "result_value": 1,
-        "result": "Odd&35"
-    },
-    {
-        "time": "06-26 09:58",
-        "serial": 6230626119,
-        "number": 12,
-        "result_value": 0,
-        "result": "Even&12"
-    },
-    {
-        "time": "06-26 09:56",
-        "serial": 6230626118,
-        "number": 10,
-        "result_value": 0,
-        "result": "Even&10"
-    },
-    {
-        "time": "06-26 09:54",
-        "serial": 6230626117,
-        "number": 74,
-        "result_value": 0,
-        "result": "Even&74"
-    },
-    {
-        "time": "06-26 09:52",
-        "serial": 6230626116,
-        "number": 59,
-        "result_value": 1,
-        "result": "Odd&59"
-    },
-    {
-        "time": "06-26 09:50",
-        "serial": 6230626115,
-        "number": 24,
-        "result_value": 0,
-        "result": "Even&24"
-    },
-    {
-        "time": "06-26 09:48",
-        "serial": 6230626114,
-        "number": 43,
-        "result_value": 1,
-        "result": "Odd&43"
-    },
-    {
-        "time": "06-26 09:46",
-        "serial": 6230626113,
-        "number": 12,
-        "result_value": 0,
-        "result": "Even&12"
-    },
-    {
-        "time": "06-26 09:44",
-        "serial": 6230626112,
-        "number": 41,
-        "result_value": 1,
-        "result": "Odd&41"
-    },
-    {
-        "time": "06-26 09:42",
-        "serial": 6230626111,
-        "number": 74,
-        "result_value": 0,
-        "result": "Even&74"
-    },
-    {
-        "time": "06-26 09:40",
-        "serial": 6230626110,
-        "number": 53,
-        "result_value": 1,
-        "result": "Odd&53"
-    },
-    {
-        "time": "06-26 09:38",
-        "serial": 6230626109,
-        "number": 2,
-        "result_value": 0,
-        "result": "Even&2"
     },
     {
         "time": "06-26 09:36",
