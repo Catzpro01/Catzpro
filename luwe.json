@@ -1,5 +1,103 @@
 [
     {
+        "time": "06-27 13:48",
+        "serial": 6230627234,
+        "number": 68,
+        "result_value": 0,
+        "result": "Even&68"
+    },
+    {
+        "time": "06-27 13:46",
+        "serial": 6230627233,
+        "number": 40,
+        "result_value": 0,
+        "result": "Even&40"
+    },
+    {
+        "time": "06-27 13:44",
+        "serial": 6230627232,
+        "number": 23,
+        "result_value": 1,
+        "result": "Odd&23"
+    },
+    {
+        "time": "06-27 13:42",
+        "serial": 6230627231,
+        "number": 19,
+        "result_value": 1,
+        "result": "Odd&19"
+    },
+    {
+        "time": "06-27 13:40",
+        "serial": 6230627230,
+        "number": 18,
+        "result_value": 0,
+        "result": "Even&18"
+    },
+    {
+        "time": "06-27 13:38",
+        "serial": 6230627229,
+        "number": 63,
+        "result_value": 1,
+        "result": "Odd&63"
+    },
+    {
+        "time": "06-27 13:36",
+        "serial": 6230627228,
+        "number": 12,
+        "result_value": 0,
+        "result": "Even&12"
+    },
+    {
+        "time": "06-27 13:34",
+        "serial": 6230627227,
+        "number": 40,
+        "result_value": 0,
+        "result": "Even&40"
+    },
+    {
+        "time": "06-27 13:32",
+        "serial": 6230627226,
+        "number": 12,
+        "result_value": 0,
+        "result": "Even&12"
+    },
+    {
+        "time": "06-27 13:30",
+        "serial": 6230627225,
+        "number": 56,
+        "result_value": 0,
+        "result": "Even&56"
+    },
+    {
+        "time": "06-27 13:28",
+        "serial": 6230627224,
+        "number": 68,
+        "result_value": 0,
+        "result": "Even&68"
+    },
+    {
+        "time": "06-27 13:26",
+        "serial": 6230627223,
+        "number": 52,
+        "result_value": 0,
+        "result": "Even&52"
+    },
+    {
+        "time": "06-27 13:24",
+        "serial": 6230627222,
+        "number": 77,
+        "result_value": 1,
+        "result": "Odd&77"
+    },
+    {
+        "time": "06-27 13:22",
+        "serial": 6230627221,
+        "number": 18,
+        "result_value": 0,
+        "result": "Even&18"
+    },
+    {
         "time": "06-27 13:20",
         "serial": 6230627220,
         "number": 27,
