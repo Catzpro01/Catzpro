@@ -1,5 +1,96 @@
 [
     {
+        "time": "06-27 14:52",
+        "serial": 6230627266,
+        "number": 11,
+        "result_value": 1,
+        "result": "Odd&11"
+    },
+    {
+        "time": "06-27 14:50",
+        "serial": 6230627265,
+        "number": 30,
+        "result_value": 0,
+        "result": "Even&30"
+    },
+    {
+        "time": "06-27 14:48",
+        "serial": 6230627264,
+        "number": 30,
+        "result_value": 0,
+        "result": "Even&30"
+    },
+    {
+        "time": "06-27 14:46",
+        "serial": 6230627263,
+        "number": 63,
+        "result_value": 1,
+        "result": "Odd&63"
+    },
+    {
+        "time": "06-27 14:44",
+        "serial": 6230627262,
+        "number": 59,
+        "result_value": 1,
+        "result": "Odd&59"
+    },
+    {
+        "time": "06-27 14:42",
+        "serial": 6230627261,
+        "number": 63,
+        "result_value": 1,
+        "result": "Odd&63"
+    },
+    {
+        "time": "06-27 14:40",
+        "serial": 6230627260,
+        "number": 47,
+        "result_value": 1,
+        "result": "Odd&47"
+    },
+    {
+        "time": "06-27 14:38",
+        "serial": 6230627259,
+        "number": 27,
+        "result_value": 1,
+        "result": "Odd&27"
+    },
+    {
+        "time": "06-27 14:36",
+        "serial": 6230627258,
+        "number": 77,
+        "result_value": 1,
+        "result": "Odd&77"
+    },
+    {
+        "time": "06-27 14:34",
+        "serial": 6230627257,
+        "number": 59,
+        "result_value": 1,
+        "result": "Odd&59"
+    },
+    {
+        "time": "06-27 14:32",
+        "serial": 6230627256,
+        "number": 30,
+        "result_value": 0,
+        "result": "Even&30"
+    },
+    {
+        "time": "06-27 14:30",
+        "serial": 6230627255,
+        "number": 80,
+        "result_value": 0,
+        "result": "Even&80"
+    },
+    {
+        "time": "06-27 14:28",
+        "serial": 6230627254,
+        "number": 69,
+        "result_value": 1,
+        "result": "Odd&69"
+    },
+    {
         "time": "06-27 14:26",
         "serial": 6230627253,
         "number": 49,
