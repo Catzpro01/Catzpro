@@ -1,5 +1,12 @@
 [
     {
+        "time": "06-28 04:22",
+        "serial": 6230627671,
+        "number": 13,
+        "result_value": 1,
+        "result": "Odd&13"
+    },
+    {
         "time": "06-28 04:20",
         "serial": 6230627670,
         "number": 5,
@@ -17169,13 +17176,6 @@
         "number": 7,
         "result_value": 1,
         "result": "Odd&7"
-    },
-    {
-        "time": "06-24 14:42",
-        "serial": 6230624261,
-        "number": 46,
-        "result_value": 0,
-        "result": "Even&46"
     },
     {
         "time": "06-24 14:40",
