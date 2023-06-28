@@ -1,5 +1,47 @@
 [
     {
+        "time": "06-28 13:58",
+        "serial": 6230628239,
+        "number": 79,
+        "result_value": 1,
+        "result": "Odd&79"
+    },
+    {
+        "time": "06-28 13:56",
+        "serial": 6230628238,
+        "number": 19,
+        "result_value": 1,
+        "result": "Odd&19"
+    },
+    {
+        "time": "06-28 13:54",
+        "serial": 6230628237,
+        "number": 46,
+        "result_value": 0,
+        "result": "Even&46"
+    },
+    {
+        "time": "06-28 13:52",
+        "serial": 6230628236,
+        "number": 16,
+        "result_value": 0,
+        "result": "Even&16"
+    },
+    {
+        "time": "06-28 13:50",
+        "serial": 6230628235,
+        "number": 13,
+        "result_value": 1,
+        "result": "Odd&13"
+    },
+    {
+        "time": "06-28 13:48",
+        "serial": 6230628234,
+        "number": 45,
+        "result_value": 1,
+        "result": "Odd&45"
+    },
+    {
         "time": "06-28 13:46",
         "serial": 6230628233,
         "number": 12,
