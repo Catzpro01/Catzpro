@@ -1,5 +1,19 @@
 [
     {
+        "time": "06-28 16:26",
+        "serial": 6230628313,
+        "number": 49,
+        "result_value": 1,
+        "result": "Odd&49"
+    },
+    {
+        "time": "06-28 16:24",
+        "serial": 6230628312,
+        "number": 59,
+        "result_value": 1,
+        "result": "Odd&59"
+    },
+    {
         "time": "06-28 16:22",
         "serial": 6230628311,
         "number": 13,
