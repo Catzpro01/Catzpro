@@ -1,5 +1,103 @@
 [
     {
+        "time": "06-30 16:58",
+        "serial": 6230630329,
+        "number": 62,
+        "result_value": 0,
+        "result": "Even&62"
+    },
+    {
+        "time": "06-30 16:56",
+        "serial": 6230630328,
+        "number": 42,
+        "result_value": 0,
+        "result": "Even&42"
+    },
+    {
+        "time": "06-30 16:54",
+        "serial": 6230630327,
+        "number": 58,
+        "result_value": 0,
+        "result": "Even&58"
+    },
+    {
+        "time": "06-30 16:52",
+        "serial": 6230630326,
+        "number": 27,
+        "result_value": 1,
+        "result": "Odd&27"
+    },
+    {
+        "time": "06-30 16:50",
+        "serial": 6230630325,
+        "number": 57,
+        "result_value": 1,
+        "result": "Odd&57"
+    },
+    {
+        "time": "06-30 16:48",
+        "serial": 6230630324,
+        "number": 9,
+        "result_value": 1,
+        "result": "Odd&9"
+    },
+    {
+        "time": "06-30 16:46",
+        "serial": 6230630323,
+        "number": 5,
+        "result_value": 1,
+        "result": "Odd&5"
+    },
+    {
+        "time": "06-30 16:44",
+        "serial": 6230630322,
+        "number": 31,
+        "result_value": 1,
+        "result": "Odd&31"
+    },
+    {
+        "time": "06-30 16:42",
+        "serial": 6230630321,
+        "number": 45,
+        "result_value": 1,
+        "result": "Odd&45"
+    },
+    {
+        "time": "06-30 16:40",
+        "serial": 6230630320,
+        "number": 33,
+        "result_value": 1,
+        "result": "Odd&33"
+    },
+    {
+        "time": "06-30 16:38",
+        "serial": 6230630319,
+        "number": 54,
+        "result_value": 0,
+        "result": "Even&54"
+    },
+    {
+        "time": "06-30 16:36",
+        "serial": 6230630318,
+        "number": 66,
+        "result_value": 0,
+        "result": "Even&66"
+    },
+    {
+        "time": "06-30 16:34",
+        "serial": 6230630317,
+        "number": 50,
+        "result_value": 0,
+        "result": "Even&50"
+    },
+    {
+        "time": "06-30 16:32",
+        "serial": 6230630316,
+        "number": 5,
+        "result_value": 1,
+        "result": "Odd&5"
+    },
+    {
         "time": "06-30 16:30",
         "serial": 6230630315,
         "number": 38,
