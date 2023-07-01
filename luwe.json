@@ -1,5 +1,26 @@
 [
     {
+        "time": "07-01 12:14",
+        "serial": 6230701187,
+        "number": 19,
+        "result_value": 1,
+        "result": "Odd&19"
+    },
+    {
+        "time": "07-01 12:12",
+        "serial": 6230701186,
+        "number": 63,
+        "result_value": 1,
+        "result": "Odd&63"
+    },
+    {
+        "time": "07-01 12:10",
+        "serial": 6230701185,
+        "number": 21,
+        "result_value": 1,
+        "result": "Odd&21"
+    },
+    {
         "time": "07-01 12:08",
         "serial": 6230701184,
         "number": 40,
