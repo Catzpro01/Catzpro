@@ -1,5 +1,117 @@
 [
     {
+        "time": "07-04 18:40",
+        "serial": 6230704380,
+        "number": 27,
+        "result_value": 1,
+        "result": "Odd&27"
+    },
+    {
+        "time": "07-04 18:38",
+        "serial": 6230704379,
+        "number": 53,
+        "result_value": 1,
+        "result": "Odd&53"
+    },
+    {
+        "time": "07-04 18:36",
+        "serial": 6230704378,
+        "number": 34,
+        "result_value": 0,
+        "result": "Even&34"
+    },
+    {
+        "time": "07-04 18:34",
+        "serial": 6230704377,
+        "number": 26,
+        "result_value": 0,
+        "result": "Even&26"
+    },
+    {
+        "time": "07-04 18:32",
+        "serial": 6230704376,
+        "number": 44,
+        "result_value": 0,
+        "result": "Even&44"
+    },
+    {
+        "time": "07-04 18:30",
+        "serial": 6230704375,
+        "number": 64,
+        "result_value": 0,
+        "result": "Even&64"
+    },
+    {
+        "time": "07-04 18:28",
+        "serial": 6230704374,
+        "number": 64,
+        "result_value": 0,
+        "result": "Even&64"
+    },
+    {
+        "time": "07-04 18:26",
+        "serial": 6230704373,
+        "number": 8,
+        "result_value": 0,
+        "result": "Even&8"
+    },
+    {
+        "time": "07-04 18:24",
+        "serial": 6230704372,
+        "number": 12,
+        "result_value": 0,
+        "result": "Even&12"
+    },
+    {
+        "time": "07-04 18:22",
+        "serial": 6230704371,
+        "number": 30,
+        "result_value": 0,
+        "result": "Even&30"
+    },
+    {
+        "time": "07-04 18:20",
+        "serial": 6230704370,
+        "number": 36,
+        "result_value": 0,
+        "result": "Even&36"
+    },
+    {
+        "time": "07-04 18:18",
+        "serial": 6230704369,
+        "number": 68,
+        "result_value": 0,
+        "result": "Even&68"
+    },
+    {
+        "time": "07-04 18:16",
+        "serial": 6230704368,
+        "number": 2,
+        "result_value": 0,
+        "result": "Even&2"
+    },
+    {
+        "time": "07-04 18:14",
+        "serial": 6230704367,
+        "number": 48,
+        "result_value": 0,
+        "result": "Even&48"
+    },
+    {
+        "time": "07-04 18:12",
+        "serial": 6230704366,
+        "number": 23,
+        "result_value": 1,
+        "result": "Odd&23"
+    },
+    {
+        "time": "07-04 18:10",
+        "serial": 6230704365,
+        "number": 25,
+        "result_value": 1,
+        "result": "Odd&25"
+    },
+    {
         "time": "07-04 18:08",
         "serial": 6230704364,
         "number": 22,
@@ -3265,13 +3377,6 @@
         "time": "06-30 20:02",
         "serial": 6230630421,
         "number": 62,
-        "result_value": 0,
-        "result": "Even&62"
-    },
-    {
-        "time": "06-30 20:00",
-        "serial": 6230630420,
-        "number": 42,
         "result_value": 0,
         "result": "Even&42"
     },
