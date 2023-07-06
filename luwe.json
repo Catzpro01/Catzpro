@@ -1,5 +1,12 @@
 [
     {
+        "time": "07-06 09:34",
+        "serial": 6230706107,
+        "number": 35,
+        "result_value": 1,
+        "result": "Odd&35"
+    },
+    {
         "time": "07-06 09:32",
         "serial": 6230706106,
         "number": 77,
