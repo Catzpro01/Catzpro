@@ -1,5 +1,96 @@
 [
     {
+        "time": "07-16 14:22",
+        "serial": 6230716251,
+        "number": 26,
+        "result_value": 0,
+        "result": "Even&26"
+    },
+    {
+        "time": "07-16 14:20",
+        "serial": 6230716250,
+        "number": 4,
+        "result_value": 0,
+        "result": "Even&4"
+    },
+    {
+        "time": "07-16 14:18",
+        "serial": 6230716249,
+        "number": 48,
+        "result_value": 0,
+        "result": "Even&48"
+    },
+    {
+        "time": "07-16 14:16",
+        "serial": 6230716248,
+        "number": 62,
+        "result_value": 0,
+        "result": "Even&62"
+    },
+    {
+        "time": "07-16 14:14",
+        "serial": 6230716247,
+        "number": 36,
+        "result_value": 0,
+        "result": "Even&36"
+    },
+    {
+        "time": "07-16 14:12",
+        "serial": 6230716246,
+        "number": 33,
+        "result_value": 1,
+        "result": "Odd&33"
+    },
+    {
+        "time": "07-16 14:10",
+        "serial": 6230716245,
+        "number": 50,
+        "result_value": 0,
+        "result": "Even&50"
+    },
+    {
+        "time": "07-16 14:08",
+        "serial": 6230716244,
+        "number": 3,
+        "result_value": 1,
+        "result": "Odd&3"
+    },
+    {
+        "time": "07-16 14:06",
+        "serial": 6230716243,
+        "number": 38,
+        "result_value": 0,
+        "result": "Even&38"
+    },
+    {
+        "time": "07-16 14:04",
+        "serial": 6230716242,
+        "number": 24,
+        "result_value": 0,
+        "result": "Even&24"
+    },
+    {
+        "time": "07-16 14:02",
+        "serial": 6230716241,
+        "number": 4,
+        "result_value": 0,
+        "result": "Even&4"
+    },
+    {
+        "time": "07-16 14:00",
+        "serial": 6230716240,
+        "number": 69,
+        "result_value": 1,
+        "result": "Odd&69"
+    },
+    {
+        "time": "07-16 13:58",
+        "serial": 6230716239,
+        "number": 17,
+        "result_value": 1,
+        "result": "Odd&17"
+    },
+    {
         "time": "07-16 13:56",
         "serial": 6230716238,
         "number": 75,
