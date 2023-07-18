@@ -40469,7 +40469,14 @@
     {
         "time": "06-28 12:48",
         "serial": 6230628204,
-        "number": 1059,
+        "number": 10,
+        "result_value": 0,
+        "result": "Even&10"
+    },
+    {
+        "time": "06-28 12:46",
+        "serial": 6230628203,
+        "number": 59,
         "result_value": 1,
         "result": "Odd&59"
     },
