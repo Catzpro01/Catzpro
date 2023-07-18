@@ -32831,6 +32831,13 @@
     },
     {
         "time": "06-30 10:54",
+        "serial": 6230630147,
+        "number": 6,
+        "result_value": 0,
+        "result": "Even&6"
+    },
+    {
+        "time": "06-30 10:52",
         "serial": 6230630146,
         "number": 78,
         "result_value": 0,
